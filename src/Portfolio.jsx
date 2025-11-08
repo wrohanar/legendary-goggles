@@ -14,8 +14,8 @@ const PROFILE = {
   email: "rohan@example.com",
   resumeUrl: "/Rohan_Jaiswal_DevOps_Resume.pdf", // place your PDF in public/
   social: {
-    github: "https://github.com/your-github",
-    linkedin: "https://linkedin.com/in/your-linkedin",
+    github: "https://github.com/wrohanar",
+    linkedin: "https://linkedin.com/in/wrohanar",
   },
 };
 
